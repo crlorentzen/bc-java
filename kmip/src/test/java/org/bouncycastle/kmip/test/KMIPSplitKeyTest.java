@@ -39,6 +39,7 @@ public class KMIPSplitKeyTest
 
     public static void main(String[] args)
     {
+        parse("fake.xml");
         parse("TC-SJ-1-21.xml");
         parse("TC-SJ-2-21.xml");
         parse("TC-SJ-3-21.xml");
